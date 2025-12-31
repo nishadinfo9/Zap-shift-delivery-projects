@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+/coverage
+
+# Environment variables and sensitive files
+.env
+.env.local
+.DS_Store # macOS specific
+npm-debug.log*
+yarn-error.log*
+.nyc_output
+zap-shift-firebase-adminsdk.json
+
+# Build artifacts
+/dist
+/build
+/temp

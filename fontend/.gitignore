@@ -1,0 +1,41 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution directories
+dist/
+build/
+
+# Optional npm cache directory
+.npm
+.eslintcache
+
+# Optional editor cache directories and files
+.idea/ # JetBrains IDEs
+.vscode/ # VS Code
+*.iml # JetBrains project file
+.cache/
+.project
+.classpath
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# OSX files
+.DS_store
+
+# Coverage directory
+coverage/
